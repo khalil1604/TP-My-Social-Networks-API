@@ -1,0 +1,6 @@
+fastapi
+pydantic-settings
+uvicorn
+sqlalchemy
+psycopg[binary]
+pydantic[email]
